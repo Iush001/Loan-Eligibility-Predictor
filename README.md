@@ -16,7 +16,6 @@ The goal of this project is to build a classification model that helps financial
 - Evaluate model accuracy
 
 ---
-
 ## Dataset
 The dataset used for this project is taken from Kaggle's Loan Prediction Dataset.
 
