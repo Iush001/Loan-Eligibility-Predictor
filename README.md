@@ -57,3 +57,79 @@ The following models can be used for prediction:
 ---
 
 ##  Project Structure
+Loan-eligibility-prediction
+│
+├── dataset.csv
+├── loan_prediction.ipynb
+├── model.pkl
+├── requirements.txt
+└── README.md
+
+
+
+---
+
+## Steps Involved
+1. Import necessary libraries
+2. Load and explore dataset
+3. Data preprocessing
+4. Handle missing values
+5. Encode categorical variables
+6. Split dataset into training and testing
+7. Train machine learning model
+8. Evaluate model performance
+9. Make predictions
+
+---
+
+##  Model Evaluation
+The model performance is evaluated using:
+
+- Accuracy Score
+- Confusion Matrix
+- Classification Report
+
+---
+
+##  How to Run the Project
+
+1. Clone the repository
+git clone https://github.com/yourusername/loan-eligibility-prediction.git
+
+
+2. Install dependencies
+
+pip install -r requirements.txt
+
+
+3. Run the notebook
+
+loan_prediction.ipynb
+
+
+---
+
+##  Future Improvements
+- Build a web interface using Flask or Streamlit
+- Improve model accuracy with advanced algorithms
+- Deploy the model on cloud platforms
+- Add real-time loan eligibility prediction
+
+---
+
+##  Author
+Aryan Soni  
+B.Tech Electronics and Communication Engineering
+
+---
+
+##  License
+This project is open-source and available for learning and educational purposes.
+
+
+
+
+
+
+
+
