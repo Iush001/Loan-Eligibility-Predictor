@@ -93,7 +93,7 @@ The model performance is evaluated using:
 ##  How to Run the Project
 
 1. Clone the repository
-git clone https://github.com/Iush001/loan-eligibility-prediction.git
+git clone https://github.com/Iush001/Loan-Eligibility-Predictor
 
 
 
